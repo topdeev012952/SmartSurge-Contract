@@ -1,88 +1,59 @@
-# AutoPump: Empowering DeFi with Next-Gen Tokenomics 🚀
+smartSurge: Pioneering the Future of DeFi with Advanced Tokenomics 🚀
 
-AutoPump is at the forefront of DeFi innovation, harnessing Foundry's power to develop Ethereum applications that redefine growth and stability in the crypto. Our focus? Unstoppable token dynamics with AutoPump mechanisms.
+smartSurge is leading the charge in DeFi, leveraging Foundry’s powerful toolkit to create Ethereum-based applications that push the boundaries of growth and stability. Our mission? To introduce dynamic, unstoppable tokenomics through the innovative AutoPump mechanism.
 
-## About Foundry
+What is Foundry?
 
-Foundry, a toolkit crafted in Rust, accelerates Ethereum app development, offering:
+Foundry is a Rust-powered suite of tools designed to accelerate Ethereum app development, offering:
 
-- **Forge**: A test framework for rigorous Ethereum project testing.
-- **Cast**: A versatile tool for smart contract interaction and blockchain data retrieval.
-- **Anvil**: Your local Ethereum node for development and testing.
-- **Chisel**: A Solidity REPL for immediate interaction with your contracts.
+Forge: A robust testing framework for Ethereum projects.
 
-## Key Resources
+Cast: A powerful tool for interacting with smart contracts and retrieving blockchain data.
 
-- Foundry Documentation: [Foundry Guide](https://book.getfoundry.sh/)
+Anvil: A personal Ethereum node for local development and testing.
 
-## AutoPump Essentials
+Chisel: A Solidity REPL for real-time interaction with contracts.
 
-### Our Contracts
-- **AutoPump Contract**: The core of our innovative tokenomic structure.
-- **Presale Contract**: Facilitates a fair and secure launch phase.
+Key Resources
 
-**Note**: We boast 100% test coverage, ensuring reliability and security.
+Foundry Documentation: A complete guide to using Foundry effectively.
 
-### Using Foundry with AutoPump
+smartSurge Essentials: Dive deep into our unique tokenomics and smart contracts.
 
-#### Build
-```shell
-forge build
-```
-Craft your AutoPump smart contracts with ease.
+smartSurge Contracts
 
-#### Test
-```shell
-forge test
-```
-We ensure flawless contract operation with comprehensive tests.
+smartSurge Contract: The backbone of our tokenomics model.
 
-#### Formatting
-```shell
-forge fmt
-```
-Keep your code tidy and readable.
+Presale Contract: Ensures a fair and transparent token launch.
 
-#### Gas Usage Snapshots
-```shell
-forge snapshot
-```
-Optimize for efficiency with gas snapshots.
+Note: We prioritize security and reliability, with 100% test coverage to back up our claims.
 
-#### Local Development Node
-```shell
-anvil
-```
-Develop and test in a controlled local environment.
+Getting Started with smartSurge and Foundry
 
-### Deployment
-Note: Direct deployment scripts are tailored for our specific needs, ensuring a secure and efficient launch.
+Build
+Command: forge build
+Develop your smartSurge contracts with ease using Foundry’s tools.
 
-### Interacting with Contracts
-```shell
-cast <subcommand>
-```
-For advanced contract interactions and explorations.
+Test
+Command: forge test
+Conduct thorough testing to ensure contract stability and performance.
 
-## Support and Community
+Format
+Command: forge fmt
+Keep your code clean and readable, following best practices.
 
-Join the AutoPump revolution:
+Optimize Gas Usage
+Command: forge snapshot
+Track and optimize gas usage for cost-effective deployments.
 
-- Website: [autopump.xyz](https://autopump.wtf)
-- Twitter: [@AutoPumpToken](https://twitter.com/AutoPumpToken)
-- Telegram: [AutoPumpToken Group](https://t.me/AutoPumpToken)
+Local Development Node
+Command: anvil
+Set up a local Ethereum node for private testing and development.
 
-## Get Started
+Deployment and Interaction
 
-Dive into the world of AutoPump:
+Deploy your contracts securely with tailored scripts designed for optimal performance.
 
-- **Launchpad**: Explore our contracts and innovative tokenomics.
-- **Community**: Engage with fellow DeFi pioneers and our team.
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
-
-AutoPump is more than a project; it's a commitment to pioneering the future of DeFi. Join us on this exhilarating journey to the moon. 🚀
+Interact with Contracts
+Command: cast <subcommand>
+Explore and interact with your deployed smart contracts.
